@@ -1,2 +1,1 @@
-markdown
 # IMDB Analysis
